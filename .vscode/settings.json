@@ -1,0 +1,20 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/kennyly/Desktop/ApacheJarFiles/fontbox-2.0.1.jar",
+            "/Users/kennyly/Desktop/ApacheJarFiles/pdfbox-2.0.1.jar",
+            "/Users/kennyly/Desktop/ApacheJarFiles/pdfbox-app-2.0.1.jar",
+            "/Users/kennyly/Desktop/ApacheJarFiles/pdfbox-tools-2.0.1.jar",
+            "/Users/kennyly/Desktop/ApacheJarFiles/preflight-2.0.1.jar",
+            "/Users/kennyly/Desktop/ApacheJarFiles/preflight-app-2.0.1.jar",
+            "/Users/kennyly/Desktop/ApacheJarFiles/xmpbox-2.0.1.jar"
+        ],
+        "exclude": [
+            "/Users/kennyly/Desktop/ApacheJarFiles/fontbox-3.0.0-alpha3.jar"
+        ]
+    },
+    "java.project.sourcePaths": [
+        "Code"
+    ]
+}
